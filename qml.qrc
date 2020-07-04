@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/qml/main.qml</file>
+        <file>src/qml/BattleField.qml</file>
+        <file>src/qml/UILogic.js</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>resources/arrow.png</file>
+        <file>resources/arrow_hover.png</file>
+        <file>resources/arrow2.png</file>
+        <file>resources/arrow2_hover.png</file>
+        <file>resources/BattleShip_1.svg</file>
+        <file>resources/BattleShip_2.svg</file>
+        <file>resources/BattleShip_3.svg</file>
+        <file>resources/statekduzypionowo1.png</file>
+    </qresource>
+</RCC>
